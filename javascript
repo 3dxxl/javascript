@@ -74,4 +74,10 @@ objectName["propertyName"]
 
 ---
 
+Creation Phase:
+Zeile für Zeile liest und belegt JS in den Memory/Speicher
+Execution Phase: 
+Die Phase an der JS den Code ausspielt. 
+
+
 
